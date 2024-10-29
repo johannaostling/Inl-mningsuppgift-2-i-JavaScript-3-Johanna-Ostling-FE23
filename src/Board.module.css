@@ -1,0 +1,20 @@
+
+/*GameOver*/
+.GameOverMessage {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
+
+/*Board*/
+.BoardGrid {
+    display: grid;
+    grid-template-columns: repeat(5, 50px);
+    grid-template-rows: repeat(5, 50px);
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}

@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 10%;
+  font-family: 'Times New Roman', Times, serif;
+  margin-left: 30%;
+}
+body{
+  background-size: cover;
+  background-image: url(pic/xmasx.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+
+}
+p{
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+h1{
+  font-size: 40px;
+}
+
+
+
+
